@@ -61,7 +61,7 @@ PRACTICE EXCEL DASHBOARDS
         
   3.Maven Hotel Group Dashboard:
 
-    Maven Hotel Group(MHG), a portugese hotel chain with resorts in Lisbon and Algarve. One of your colleagues has identified some interesting insights, but needs your help bringing data to life.
+    Maven Hotel Group(MHG), a portuguese hotel chain with resorts in Lisbon and Algarve. One of your colleagues has identified some interesting insights, but needs your help bringing data to life.
     
     Key Objectives:
       
