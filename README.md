@@ -32,7 +32,7 @@ PRACTICE EXCEL DASHBOARDS
    
    2.Regional Revenue Dashboard:
    
-      Maven Careers, a non-profit organization helping high school seniors find career paths           wants us to build a dashboard for upcoming round of school visits.
+      Maven Toys, a small toy store chain in the US wants us to prepare a new montly dashboard         for the company's regional sales managers.
     
       Key Objectives:
       
