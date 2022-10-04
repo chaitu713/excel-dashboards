@@ -58,6 +58,32 @@ PRACTICE EXCEL DASHBOARDS
         • Automatic Sorting
         • Conditional Formatting
         • Sharing Online.
+        
+  3.Maven Hotel Group Dashboard:
+
+    Maven Hotel Group(MHG), a portugese hotel chain with resorts in Lisbon and Algarve. One of       your colleagues has identified some interesting insights, but needs your help bringing data     to life.
+    
+    Key Objectives:
+      
+          1. Visualize each insight effectively
+          2.Use color consistently & deliberately
+          3. Leverage dashboard layout & text to clearly communicate key insights & business               recommendations.
+          
+    Dataset Summary - Hotel booking data, from July 2015 to August 2017.
+    
+    Dimensions & Measures:
+    
+          Dimensions: Booking ID, Hotel, Booking/Arrival Date, Distribution Channel, Customer             Type, Country, Deposit Type, Status, Status Update, Cancelled (0/1)
+          Measures: Lead Time, Nights, Guests, Revenue, Loss.
+    
+    Excel Concepts Covered:
+    
+        • Pivot Charts
+        • Partial Pivot Charts
+        • Conditional Number Formats
+        • Pasting as an Image.
+        
+   
    
       
     
