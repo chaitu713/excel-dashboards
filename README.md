@@ -2,7 +2,7 @@ PRACTICE EXCEL DASHBOARDS
 
   1.US Labor Statistics:
 
-    Maven Careers, a non-profit organization helping high school seniors find career paths wants     us to build a dashboard for upcoming round of school visits.
+    Maven Careers, a non-profit organization helping high school seniors find career paths wants us to build a dashboard for upcoming round of school visits.
     
     Key Objectives:
       
@@ -32,7 +32,7 @@ PRACTICE EXCEL DASHBOARDS
    
    2.Regional Revenue Dashboard:
    
-      Maven Toys, a small toy store chain in the US wants us to prepare a new montly dashboard         for the company's regional sales managers.
+      Maven Toys, a small toy store chain in the US wants us to prepare a new montly dashboard for the company's regional sales managers.
     
       Key Objectives:
       
@@ -61,19 +61,19 @@ PRACTICE EXCEL DASHBOARDS
         
   3.Maven Hotel Group Dashboard:
 
-    Maven Hotel Group(MHG), a portugese hotel chain with resorts in Lisbon and Algarve. One of       your colleagues has identified some interesting insights, but needs your help bringing data     to life.
+    Maven Hotel Group(MHG), a portugese hotel chain with resorts in Lisbon and Algarve. One of your colleagues has identified some interesting insights, but needs your help bringing data to life.
     
     Key Objectives:
       
           1. Visualize each insight effectively
           2.Use color consistently & deliberately
-          3. Leverage dashboard layout & text to clearly communicate key insights & business               recommendations.
+          3. Leverage dashboard layout & text to clearly communicate key insights & business recommendations.
           
     Dataset Summary - Hotel booking data, from July 2015 to August 2017.
     
     Dimensions & Measures:
     
-          Dimensions: Booking ID, Hotel, Booking/Arrival Date, Distribution Channel, Customer             Type, Country, Deposit Type, Status, Status Update, Cancelled (0/1)
+          Dimensions: Booking ID, Hotel, Booking/Arrival Date, Distribution Channel, Customer Type, Country, Deposit Type, Status, Status Update, Cancelled (0/1)
           Measures: Lead Time, Nights, Guests, Revenue, Loss.
     
     Excel Concepts Covered:
